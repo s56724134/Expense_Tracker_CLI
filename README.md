@@ -2,6 +2,10 @@
 
 一個使用 C# (.NET 8.0) 開發的命令列記帳應用程式，可以追蹤個人支出並提供各種查詢功能。
 
+## 專案連結
+
+🔗 [GitHub Repository](https://github.com/s56724134/Expense_Tracker_CLI)
+
 ## 功能特色
 
 - ✅ 新增支出項目
