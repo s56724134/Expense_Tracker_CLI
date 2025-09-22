@@ -1,0 +1,14 @@
+/app/WeatherConsole/bin/Debug/net8.0/WeatherConsole
+/app/WeatherConsole/bin/Debug/net8.0/WeatherConsole.deps.json
+/app/WeatherConsole/bin/Debug/net8.0/WeatherConsole.runtimeconfig.json
+/app/WeatherConsole/bin/Debug/net8.0/WeatherConsole.dll
+/app/WeatherConsole/bin/Debug/net8.0/WeatherConsole.pdb
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.GeneratedMSBuildEditorConfig.editorconfig
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.AssemblyInfoInputs.cache
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.AssemblyInfo.cs
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.csproj.CoreCompileInputs.cache
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.dll
+/app/WeatherConsole/obj/Debug/net8.0/refint/WeatherConsole.dll
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.pdb
+/app/WeatherConsole/obj/Debug/net8.0/WeatherConsole.genruntimeconfig.cache
+/app/WeatherConsole/obj/Debug/net8.0/ref/WeatherConsole.dll

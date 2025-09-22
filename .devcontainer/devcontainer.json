@@ -1,0 +1,32 @@
+{
+  "name": "dotnet-dev",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "devcontainer",
+  "workspaceFolder": "/app",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+        "esbenp.prettier-vscode",
+        "github.copilot" // ← 如果不想用可以整個移除
+      ],
+      "settings": {
+        "workbench.colorTheme": "One Dark Pro",
+        "editor.formatOnSave": true,
+
+        // ✅ 完整關閉 GitHub Copilot 所有提示干擾
+        "github.copilot.enable": {
+          "*": false
+        },
+        "github.copilot.inlineSuggest.enable": false,
+        "github.copilot.suggestionDelay": 9999999,
+        "github.copilot.suggestionPreview": false,
+        "github.copilot.advanced": {
+          "inlineSuggestCount": 0
+        },
+        "editor.suggest.showCopilotSuggestions": false
+      }
+    }
+  }
+}

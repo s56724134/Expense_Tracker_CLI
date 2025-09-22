@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Console Launch (input enabled)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "app/WeatherConsole/bin/Debug/net8.0/WeatherConsole.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"  // ✅ 這一行是關鍵！
+    }
+  ]
+}
