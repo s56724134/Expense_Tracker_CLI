@@ -4,7 +4,7 @@
 
 ## 專案連結
 
-🔗 [GitHub Repository](https://github.com/s56724134/Expense_Tracker_CLI)
+https://github.com/s56724134/Expense_Tracker_CLI
 
 ## 功能特色
 
